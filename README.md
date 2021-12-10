@@ -1,1 +1,5 @@
 # Classification-of-News
+
+### Abstract
+
+Print media is facing a harsh time, especially with more and more people preferring to read the news on their digital screens. Most news channels now prefer to publish news articles on the web. As a result, it is highly desirable to categorize the information in an appropriate set of categories that can assist users in navigating through the large number of news articles. The idea of the project is to design one effective classification tool for the news articles. This way, the machine learning model can quickly and efficiently identify untracked news and suggest news to users based on their interests rather than searching the entire information space. To make this system automatic, machine learning techniques such as Logistic Regression, RandomForest Classifier, Multinomial Naïve Bayes Theorem, Convolutional Neural Network are used to predict the category to which the news article belongs to. The main idea is to compare the performances of all the above algorithms and see which one performs the best on our dataset by evaluating each algorithms’ accuracy scores.
